@@ -1,0 +1,5 @@
+porespy
+scipy
+numpy
+scikit-image
+edt

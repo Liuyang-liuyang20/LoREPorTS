@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: LoREPorTS
+Version: 0.0.2
+Summary: Local Resistance Equivalence-based Pore-Throat Segmentation 
+Home-page: https://github.com/Liuyang-liuyang20/LoREPorTS
+Author: ['Moran Wang', 'Yang Liu', 'Wenbo Gong']
+License: MIT
+Download-URL: https://github.com/Liuyang-liuyang20/LoREPorTS/releases
+Keywords: pore-throat,segmentation network,extraction porespy
+Platform: UNKNOWN
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENCE.md
+
+UNKNOWN
+
